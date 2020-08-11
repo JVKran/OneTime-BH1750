@@ -1,0 +1,4 @@
+# Syntax Coloring Map For OneTime-BH1750 Library In Arduino IDE
+
+begin				KEYWORD2
+getLightIntensity	KEYWORD2
